@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-theme                    : jekyll_theme_minimal
+
 locale                   : "en-US"
 title                    : "Elaine Gorom"
 title_separator          : "-"
